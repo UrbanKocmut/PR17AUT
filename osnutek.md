@@ -8,6 +8,5 @@ Poskušali bomo odgovoriti na naslednja in ostala podobna vprašanja:
   - razlike v avtomobilih moških in žensk in kako se spreminajjo skozi čas,
   - razlike v avtomobilih skozi leta,
   - okoljevarstveni vidik skozi čas,
-  - 
   
 
