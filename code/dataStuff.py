@@ -13,5 +13,3 @@ def merge():
              fout.write(line)
         f.close() # not really needed
     fout.close()
-
-merge()
