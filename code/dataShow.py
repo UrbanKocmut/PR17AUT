@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-from code.dataStuff import getDict
+from code.dataSortOut import getDict
 
 """
 Vrne graf znamk z največ registriranimi vatomobili januarja po letih.
@@ -26,4 +26,23 @@ def topZnamke(n=30):
     plot = top.plot(kind="bar")
     plt.tight_layout()
     plt.show()
+"""
+Prikaže graf slovenskih top modelov po letih.
+"""
+def topModeli(n=30):
+    polje = "D.3-Komerc. oznaka"
+    dataOverYears = []
+    top = pd.DataFrame()
+    for yr in range(2014,2018):
+        df = pd.DataFrame(getDict(yr))
+        df[polje] = df[polje].map(lambda x: x.split("/", 1)[0] if x is not None else x).astype("category")
+        top[str(yr)] = df[polje].value_counts().nlargest(n)
+
+    plot = top.plot(kind="bar")
+    plt.tight_layout()
+    plt.show()
+
+topModeli()
+
+
 
