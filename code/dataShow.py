@@ -33,16 +33,48 @@ def topModeli(n=30):
     polje = "D.3-Komerc. oznaka"
     dataOverYears = []
     top = pd.DataFrame()
-    for yr in range(2014,2018):
+    for yr in range(2014,2017):
         df = pd.DataFrame(getDict(yr))
         df[polje] = df[polje].map(lambda x: x.split("/", 1)[0] if x is not None else x).astype("category")
+        top[str(yr)] = df[polje].value_counts().nlargest(n)
+    for x in top:
+        print(x)
+
+    plot = top.plot(kind="bar")
+    plt.tight_layout()
+    plt.show()
+
+def moskiZenske():
+    n=10
+    polje = "C2-Spol lastnika (ce gre za fizicno osebo)"
+    dataOverYears = []
+    top = pd.DataFrame()
+
+    for yr in range(2014, 2018):
+        df = pd.DataFrame(getDict(yr))
+        df[polje] = df[polje].map(lambda x: x if x is not "" else None).astype("category")
         top[str(yr)] = df[polje].value_counts().nlargest(n)
 
     plot = top.plot(kind="bar")
     plt.tight_layout()
     plt.show()
 
-topModeli()
+def dizelBencin():
+    n = 2
+    polje = "P.1.3-Vrsta goriva (opis)"
+    dataOverYears = []
+    top = pd.DataFrame()
+
+    for yr in range(2014, 2018):
+        df = pd.DataFrame(getDict(yr))
+        df[polje] = df[polje].map(lambda x: x if x is not "" else None).astype("category")
+        top[str(yr)] = df[polje].value_counts().nlargest(n)
+
+    plot = top.plot(kind="bar")
+    plt.tight_layout()
+    plt.show()
+
+
 
 
 
