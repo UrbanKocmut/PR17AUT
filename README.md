@@ -11,4 +11,4 @@ registracije. Podatke o uporabniku in vozilu.
 
 Poskušali bomo najti lastnosti ki jih imamo slovenci
 pri nakupu vozil ter poskušali najti kakšne podobnosti
-po spolu ali starosti.
+po spolu ali starosti..
