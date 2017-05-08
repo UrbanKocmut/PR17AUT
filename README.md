@@ -1,5 +1,9 @@
-# PR17AUT
+#VOZNI PARK SLOVENCEV.
 Projektna naloga pri predmetu Podatkovno rudarjenje
+
+Urban Kocmut
+Anže Veršnik
+Tjaž Špegel
 
 Vir podatkov - https://podatki.gov.si/dataset/prvic-registrirana-vozila-po-mesecih
 
@@ -10,8 +14,7 @@ Status vozila. Izvajalca in območje registracije. Ter podregijo
 registracije. Podatke o uporabniku in vozilu.
 
 Poskušali bomo najti lastnosti ki jih imamo slovenci
-pri nakupu vozil ter poskušali najti kakšne podobnosti
-po spolu ali starosti..
+pri nakupu vozil ter poskušali najti kakšne zanimive razlike med spoloma...
 
 ![znamke](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/priljubljeneZnamke.png)
 ![vozila](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/RegistriranaVozila.png)
