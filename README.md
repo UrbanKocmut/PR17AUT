@@ -16,3 +16,5 @@ po spolu ali starosti..
 ![znamke](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/priljubljeneZnamke.png)
 ![vozila](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/RegistriranaVozila.png)
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/priljubljeniModeli.png)
+![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/st_vozil_diz_ben.png)
+![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/st_vozil_mz.png)
