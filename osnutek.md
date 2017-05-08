@@ -6,7 +6,6 @@ Poskušali bomo odgovoriti na naslednja in ostala podobna vprašanja:
   - najpopularnejše znamke skozi leta,
   - najpopularnejše modele avtomobilov skozi leta,
   - razlike v avtomobilih moških in žensk in kako se spreminjajo skozi čas,
-  - razlike v avtomobilih skozi leta,
-  - okoljevarstveni vidik skozi čas,
+  - razlike v avtomobilih skozi leta.
   
 
