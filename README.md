@@ -1,4 +1,5 @@
 #VOZNI PARK SLOVENCEV.
+
 Projektna naloga pri predmetu Podatkovno rudarjenje
 
 Urban Kocmut
