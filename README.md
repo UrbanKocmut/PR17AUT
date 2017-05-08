@@ -1,4 +1,4 @@
-#VOZNI PARK SLOVENCEV.
+# VOZNI PARK SLOVENCEV.
 
 Projektna naloga pri predmetu Podatkovno rudarjenje
 
