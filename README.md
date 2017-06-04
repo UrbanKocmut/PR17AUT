@@ -30,6 +30,42 @@ Ko pa smo leta 2013 imeli manjšo gospodarsko krizo in se je zaposlenost kot tud
 tudi povečanje kupljenih avtomobilov v tem letu. Povečanje številov v leto 2014 pa je bilo prav tako manjše.
 
 
+##Povprečen slovenski avto
+
+Lastnost | Povprečna
+------------ | -------------
+Znamka | Volkswagen
+Model | Clio
+Gorivo | Dizel
+Nosilnost | 522 kg
+Masa | 1412 kg
+Max. hitrost | 192 km/h
+Povp. poraba | 4.97 l/100km
+Prostornina | 1590 ccm
+Moč | 92 hp
+Dolžina | 4,4 m
+Širina | 1,77 m
+Višina | 1,41 m
+Barva | Siva
+
+
+Poskušali smo tudi najti kateri avto bi lahko v tem trenutku kupili v realnem svetu ki bi našim specifikacijam povprečnega
+slovenskega avta čimbolj ustrezal. Ugotovili smo da bi bil to Citroën C4 1.4 HDi 90, ki se nahaja na spodnji sliki. 
+
+![citroen](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/citroen.jpg)
+
+Lastnost | Razlikovanje
+------------ | -------------
+Gorivo | Enako
+Masa | -24 kg
+Max. hitrost | -12 km/h
+Povp. poraba | +0.0 l/100km
+Prostornina | -30 ccm
+Moč | -1 hp
+Dolžina | -0.08 m
+Širina | +0.02 m
+Višina | +0.08 m
+
 ## Razlika med spoloma
 
 Kot smo predvidevali moški izbirajo temnejše barve, kot ženske. Najbolj popularne barve pri moških so siva, črna in rdeča medtem, ko ženske najraje odločajo
