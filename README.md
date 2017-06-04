@@ -32,9 +32,9 @@ tudi povečanje kupljenih avtomobilov v tem letu. Povečanje številov v leto 20
 
 
 ##Povprečen slovenski avto
+
 Če bi vzeli lasnosti, ki jim lastniki najbolj zaupajo in iz njih naredi avto, bi zgledal nekako takole.
 
-V spodnji tabeli je prikazano kakšen bi zgledal povprečen slovenski avto če bi ga lahko ustvarili iz povprečnih oziroma najbolj zastopanih lastnosti. Vemo sicer da model Clio pri znamki VW ne obstaja. A se nam je vseeno zdelo zanimivo obdržati obe lastnosti in ne iskati najbolj popularen VW model.
 
 Lastnost | Povprečna
 ------------ | -------------
@@ -52,6 +52,7 @@ Dolžina | 4,4 m
 Višina | 1,41 m
 Barva | Siva
 
+V zgornji tabeli je prikazano kakšen bi zgledal povprečen slovenski avto če bi ga lahko ustvarili iz povprečnih oziroma najbolj zastopanih lastnosti. Vemo sicer da model Clio pri znamki VW ne obstaja. A se nam je vseeno zdelo zanimivo obdržati obe lastnosti in ne iskati najbolj popularen VW model.
 
 Poskušali smo tudi najti kateri avto bi lahko v tem trenutku kupili v realnem svetu ki bi našim specifikacijam povprečnega
 slovenskega avta čimbolj ustrezal. Ugotovili smo da bi bil to Citroën C4 1.4 HDi 90, ki se nahaja na spodnji sliki. 
