@@ -31,6 +31,7 @@ tudi povečanje kupljenih avtomobilov v tem letu. Povečanje številov v leto 20
 
 
 ##Povprečen slovenski avto
+Če bi vzeli lasnosti, ki jim lastniki najbolj zaupajo in iz njih naredi avto, bi zgledal nekako takole.
 
 Lastnost | Povprečna
 ------------ | -------------
