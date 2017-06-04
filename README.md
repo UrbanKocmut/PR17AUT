@@ -27,7 +27,14 @@ za avtomobile v sivi ali beli barvi. Pri ženskah sem bil predvsem presenečen n
 zeleno in oranžno (2%). Precej bolj pričakovano je, da si majnk kot procent moških izbire avte v teh barvah.
 
 Iz spodnjega grafa je razvidno za kakšne barve se ženske najraje odločajo.
+
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/barve_zenske.jpg)
 
 Iz spodnjega grafa lahko razberemo za kakšne barve se odločajo moški. Predvsem smo bili presenečeni nad velikim procentom rdečih avtomobilov.
+
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/barve_moski.jpg)
+
+Kot smo že prej ugotovili, je večina avtomobilov dizljev. Zanimivo je, da je procent dizeljskih avtomobilov precej manjši, kot pri moških. 
+Glej spodnji diagram.
+
+![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/bencin.jpg)
