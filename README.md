@@ -64,5 +64,10 @@ kot Volkswagen. Drugih večjih razlik med spoloma ni. Procentualna priljubljenos
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/znamke_m.JPG)
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/znamke_z.JPG)
 
+Pogledal sem si kakšne tipe vozil registriramo moški in kakšne ženske. Bili smo precej presenečeni, da ženske registrirajo samo osebna vozila in trakorje (vsa ostala vozila so pod 1%).
+Pri moških je ta seznam malce širši, čeprav pričakovano prevladujejo osebni avtomobili. Več ja spodnih grafih.
+
+![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/tipi_vozil_m.JPG)
+![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/tipi_vozil_z.JPG)
 
 
