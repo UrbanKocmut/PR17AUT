@@ -130,11 +130,3 @@ Lastniki starejši od 50let imajo manjše avte, vendar razlika med moškimi in �
 Za konec sem pogledal še povprečno starost voznika v zadnjih 4ih letnih. Razlika v starosti med spoloma se zmanjšuje. Povprečni moški lastnik vozila se mlajša medtem, ko povprečna ženska voznica postaja starejša.
 
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/starost_voznika.jpg)
-
-
-stare
-
-![znamke](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/priljubljeneZnamke.png)
-![vozila](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/RegistriranaVozila.png)
-![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/priljubljeniModeli.png)
-![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/st_vozil_diz_ben.png)
