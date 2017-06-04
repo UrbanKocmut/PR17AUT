@@ -32,7 +32,7 @@ Iz spodnjega grafa je razvidno za kakšne barve se ženske najraje odločajo.
 
 Iz spodnjega grafa lahko razberemo za kakšne barve se odločajo moški. Predvsem smo bili presenečeni nad velikim procentom rdečih avtomobilov.
 
-![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/barve_moski.jpg)
+![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/barve_moski.JPG)
 
 Kot smo že prej ugotovili, je večina avtomobilov dizljev. Zanimivo je, da je procent dizeljskih avtomobilov precej manjši, kot pri moških. 
 Glej spodnji diagram.
