@@ -30,6 +30,7 @@ Ko pa smo leta 2013 imeli manjšo gospodarsko krizo in se je zaposlenost kot tud
 tudi povečanje kupljenih avtomobilov v tem letu. Povečanje številov v leto 2014 pa je bilo prav tako manjše.
 
 
+
 ##Povprečen slovenski avto
 
 V spodnji tabeli je prikazano kakšen bi zgledal povprečen slovenski avto če bi ga lahko ustvarili iz povprečnih oziroma najbolj zastopanih lastnosti. Vemo sicer da model Clio pri znamki VW ne obstaja. A se nam je vseeno zdelo zanimivo obdržati obe lastnosti in ne iskati najbolj popularen VW model.
