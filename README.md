@@ -38,3 +38,31 @@ Kot smo že prej ugotovili, je večina avtomobilov dizljev. Zanimivo je, da je p
 Glej spodnji diagram.
 
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/bencin.jpg)
+
+Zanimalo me je če se najpopularnejši tip avtomobila spreminja glede na starost lastnika in pa na spol. Predvidevali smo, da se bodo pokazale nakatere razlika in imeli smo prav.
+
+![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/model_mlaj_30_z.jpg)
+![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/model_mlaj_30_m.jpg)
+
+Kot je razvidno iz zgornjih grafov sta Passat in Golf najbolj priljubljena pri moških in pa Golf in C3 pri ženskah. Sam bi pričakoval, da bo Clio višje pri obeh spolih.
+
+![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/model_30_50_z.jpg)
+![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/model_30_50_m.jpg)
+
+Pr lastnikih starih med 30 in 50let smo pričakovali, da bodo pri moških v ospredj prišli bolj športni avti ampak sta najbol pribljubljena ostala Passat in Golf. Tretji najbolj
+priljublen pa je presenetlivo Touran, ki je velik družinski avto. Pri ženskah so se pa uresničila moja začetna pričakovanje in je Clio najpogostejša izbira.
+
+![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/model_vec_ko_50_z.jpg)
+![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/model_vec_ko_50_m.jpg)
+
+Zgornja grafa predstavljata kakšne modele avtomobilov imajo najraje posamezniki starejši od 50let. Pri moških sem pričakoval, da bodo prevladovali veliki avtomobili ampak 
+najpogostejši je še vedno golf. Je pa res, da so zelo popularni tudi večji avtomobili, kot npr. Tiguan, Touran... Pri ženskah so avtomobili malce večji vendar velikih razlik ni.
+
+Po zgornih obdelavi modelov smo predvidevali, da bodo najbolj popularne znamke Renault in Volkswagen in niso se zmotili. Je pa res, da nisem pričakoval, da bo pri ženskah Renault enako popularn 
+kot Volkswagen. Drugih večjih razlik med spoloma ni. Procentualna priljubljenost ostalih lahko vidit na spodnem grafu.
+
+![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/znamke_m.jpg)
+![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/znamke_z.jpg)
+
+
+
