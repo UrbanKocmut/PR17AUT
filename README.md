@@ -32,6 +32,8 @@ tudi povečanje kupljenih avtomobilov v tem letu. Povečanje številov v leto 20
 
 ##Povprečen slovenski avto
 
+V spodnji tabeli je prikazano kakšen bi zgledal povprečen slovenski avto če bi ga lahko ustvarili iz povprečnih oziroma najbolj zastopanih lastnosti. Vemo sicer da model Clio pri znamki VW ne obstaja. A se nam je vseeno zdelo zanimivo obdržati obe lastnosti in ne iskati najbolj popularen VW model.
+
 Lastnost | Povprečna
 ------------ | -------------
 Znamka | Volkswagen
