@@ -1,26 +1,36 @@
-# VOZNI PARK SLOVENCEV.
+# VOZNI PARK SLOVENCEV
 
 Projektna naloga pri predmetu Podatkovno rudarjenje
 
-Urban Kocmut
-Anže Veršnik
+Urban Kocmut ,
+Anže Veršnik,
 Tjaž Špegel
+
+## Podatki
 
 Vir podatkov - https://podatki.gov.si/dataset/prvic-registrirana-vozila-po-mesecih
 
-Podatki vsebujejo informacije o registraciji vozil v Sloveniji.
+Podatki vsebujejo informacije o registraciji vozil v sloveniji.
 Imamo podatek o datumu prve registracije in datumu
 prve in prve registracije v SLO. Vsebuje potrdilo os skladnosti
-Status vozila. Izvajalca in območje registracije. Ter pod regijo
-registracije. Podatke o uporabniku in vozilu.
+Status vozila. Izvajalca in območje registracije. Ter podregijo
+registracije. Podatke o uporabniku in vozilu. Podatki so navoljo naprej
+od leta 2012 odvisno od leta pa so na voljo za celotno leto
+ali pa za vsak mesec posebej.
 
-Poskušali bomo najti lastnosti ki jih imamo Slovenci
-pri nakupu vozil ter poskušali najti kakšne zanimive razlike med spoloma...
+## Registracija vozil in gospodarstvo
 
-![znamke](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/priljubljeneZnamke.png)
-![vozila](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/RegistriranaVozila.png)
-![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/priljubljeniModeli.png)
-![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/st_vozil_diz_ben.png)
+![registracije](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/registracije_po_letih.png)
+
+![gospodarstvo](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/slovenska_zaposlenost.png)
+
+Kot lahko vidimo na zgornji sliki se število registriranih vozil konstantno povečuje. To lahko pripišemo tudi stalni rasti 
+povprečnih plač in zaposlenosti v naši državi. Kot lahko tudi opazimo je bila rast števila vozil v vsakem letu dokaj konsistentna.
+Ko pa smo leta 2013 imeli manjšo gospodarsko krizo in se je zaposlenost kot tudi povprečna plača zmanjšala, zmanjšalo
+tudi povečanje kupljenih avtomobilov v tem letu. Povečanje številov v leto 2014 pa je bilo prav tako manjše.
+
+
+## Razlika med spoloma
 
 Kot smo predvidevali moški izbirajo temnejše barve, kot ženske. Najbolj popularne barve pri moških so siva, črna in rdeča medtem, ko ženske najraje odločajo
 za avtomobile v sivi ali beli barvi. Pri ženskah sem bil predvsem presenečen nad tem, da jih zelo malo izbere bolj eksotične barve npr.: vijolično (6%), rumeno(1%),
@@ -79,3 +89,11 @@ Lastniki starejši od 50let imajo manjše avte, vendar razlika med moškimi in �
 Za konec sem pogledal še povprečno starost voznika v zadnjih 4ih letnih. Razlika v starosti med spoloma se zmanjšuje. Povprečni moški lastnik vozila se mlajša medtem, ko povprečna ženska voznica postaja starejša.
 
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/starost_voznika.jpg)
+
+
+stare
+
+![znamke](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/priljubljeneZnamke.png)
+![vozila](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/RegistriranaVozila.png)
+![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/priljubljeniModeli.png)
+![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/st_vozil_diz_ben.png)
