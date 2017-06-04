@@ -70,4 +70,12 @@ Pri moških je ta seznam malce širši, čeprav pričakovano prevladujejo osebni
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/tipi_vozil_m.JPG)
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/tipi_vozil_z.JPG)
 
+Najbolj pa sem bil presenečen nad temu, da imajo ženske avtomobile z manjšo prostornino. Nato sem malce povprašal okoli in ugotovili, da je to najvrjetneje zato, ker 
+v večini družin je "velik" družinskia avto registriran na moškega in majnši drugi avto na žensko. V starostni skupini med 30 in 50let pridemo po prostornini avtomobilov najbližje (kriza srednjih let?).
+Lastniki starejši od 50let imajo manjše avte, vendar razlika med moškimi in ženskami ostane podobna. 
 
+![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/prostornina.JPG)
+
+Za konec sem pogledal še povprečno starost voznika v zadnjih 4ih letnih. Razlika v starosti med spoloma se zmanjšuje. Povprečni moški lastnik vozila se mlajša medtem, ko povprečna ženska voznica postaja starejša.
+
+![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/starost_voznika.jpg)
