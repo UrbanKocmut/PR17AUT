@@ -131,10 +131,3 @@ Za konec sem pogledal še povprečno starost voznika v zadnjih 4ih letnih. Razli
 
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/starost_voznika.jpg)
 
-
-stare
-
-![znamke](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/priljubljeneZnamke.png)
-![vozila](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/RegistriranaVozila.png)
-![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/priljubljeniModeli.png)
-![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/st_vozil_diz_ben.png)
