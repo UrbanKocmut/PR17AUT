@@ -8,13 +8,13 @@ Tjaž Špegel
 
 Vir podatkov - https://podatki.gov.si/dataset/prvic-registrirana-vozila-po-mesecih
 
-Podatki vsebujejo informacije o registraciji vozil v sloveniji.
+Podatki vsebujejo informacije o registraciji vozil v Sloveniji.
 Imamo podatek o datumu prve registracije in datumu
 prve in prve registracije v SLO. Vsebuje potrdilo os skladnosti
-Status vozila. Izvajalca in območje registracije. Ter podregijo
+Status vozila. Izvajalca in območje registracije. Ter pod regijo
 registracije. Podatke o uporabniku in vozilu.
 
-Poskušali bomo najti lastnosti ki jih imamo slovenci
+Poskušali bomo najti lastnosti ki jih imamo Slovenci
 pri nakupu vozil ter poskušali najti kakšne zanimive razlike med spoloma...
 
 ![znamke](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/priljubljeneZnamke.png)
@@ -24,7 +24,7 @@ pri nakupu vozil ter poskušali najti kakšne zanimive razlike med spoloma...
 
 Kot smo predvidevali moški izbirajo temnejše barve, kot ženske. Najbolj popularne barve pri moških so siva, črna in rdeča medtem, ko ženske najraje odločajo
 za avtomobile v sivi ali beli barvi. Pri ženskah sem bil predvsem presenečen nad tem, da jih zelo malo izbere bolj eksotične barve npr.: vijolično (6%), rumeno(1%),
-zeleno in oranžno (2%). Precej bolj pričakovano je, da si majnk kot procent moških izbire avte v teh barvah.
+zeleno in oranžno (2%). Precej bolj pričakovano je, da si majn kot procent moških izbire avte v teh barvah.
 
 Iz spodnjega grafa je razvidno za kakšne barve se ženske najraje odločajo.
 
@@ -39,7 +39,7 @@ Glej spodnji diagram.
 
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/bencin.jpg)
 
-Zanimalo me je če se najpopularnejši tip avtomobila spreminja glede na starost lastnika in pa na spol. Predvidevali smo, da se bodo pokazale nakatere razlika in imeli smo prav.
+Zanimalo me je če se najpopularnejši tip avtomobila spreminja glede na starost lastnika in pa na spol. Predvidevali smo, da se bodo pokazale nekatere razlika in imeli smo prav.
 
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/model_mlaj_30_z.JPG)
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/model_mlaj_30_m.JPG)
@@ -49,8 +49,8 @@ Kot je razvidno iz zgornjih grafov sta Passat in Golf najbolj priljubljena pri m
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/model_30_50_z.JPG)
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/model_30_50_m.JPG)
 
-Pr lastnikih starih med 30 in 50let smo pričakovali, da bodo pri moških v ospredj prišli bolj športni avti ampak sta najbol pribljubljena ostala Passat in Golf. Tretji najbolj
-priljublen pa je presenetlivo Touran, ki je velik družinski avto. Pri ženskah so se pa uresničila moja začetna pričakovanje in je Clio najpogostejša izbira.
+Pr lastnikih starih med 30 in 50let smo pričakovali, da bodo pri moških v ospredje prišli bolj športni avti ampak sta najbolj pribljubljena ostala Passat in Golf. Tretji najbolj
+priljubljen pa je presenetlivo Touran, ki je velik družinski avto. Pri ženskah so se pa uresničila moja začetna pričakovanje in je Clio najpogostejša izbira.
 
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/model_vec_ko_50_z.JPG)
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/model_vec_ko_50_m.JPG)
@@ -58,8 +58,8 @@ priljublen pa je presenetlivo Touran, ki je velik družinski avto. Pri ženskah 
 Zgornja grafa predstavljata kakšne modele avtomobilov imajo najraje posamezniki starejši od 50let. Pri moških sem pričakoval, da bodo prevladovali veliki avtomobili ampak 
 najpogostejši je še vedno golf. Je pa res, da so zelo popularni tudi večji avtomobili, kot npr. Tiguan, Touran... Pri ženskah so avtomobili malce večji vendar velikih razlik ni.
 
-Po zgornih obdelavi modelov smo predvidevali, da bodo najbolj popularne znamke Renault in Volkswagen in niso se zmotili. Je pa res, da nisem pričakoval, da bo pri ženskah Renault enako popularn 
-kot Volkswagen. Drugih večjih razlik med spoloma ni. Procentualna priljubljenost ostalih lahko vidit na spodnem grafu.
+Po zgornjih obdelavi modelov smo predvidevali, da bodo najbolj popularne znamke Renault in Volkswagen in niso se zmotili. Je pa res, da nisem pričakoval, da bo pri ženskah Renault enako popularen. 
+kot Volkswagen. Drugih večjih razlik med spoloma ni. Procentualna priljubljenost ostalih lahko vidite  na spodnjem grafu.
 
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/znamke_m.JPG)
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/znamke_z.JPG)
