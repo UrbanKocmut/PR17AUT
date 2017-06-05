@@ -88,7 +88,7 @@ def dizelBencin():
     plt.show()
 
 
-def povprecna_poraba_leto(leto):
+def povprecna_poraba(leto, po_mesecih=False):
     if leto < 2014 or leto > 2016:
         raise RuntimeError('Napacno leto, mora biti 2014-2016')
     co2 = []
@@ -100,7 +100,10 @@ def povprecna_poraba_leto(leto):
         vozilaLeta['V.1-CO'] = pd.to_numeric(vozilaLeta['V.1-CO'].map(lambda x: x.replace(",", ".")))
         co2.append(vozilaLeta['V.1-CO'].mean())
         poraba.append(vozilaLeta['V.8-Kombinirana poraba goriva'].mean())
-    return {"CO2": np.mean(co2), "Poraba": np.mean(poraba)}
+    if po_mesecih:
+        return {"CO2": co2, "Poraba": poraba}
+    else:
+        return {"CO2": np.mean(co2), "Poraba": np.mean(poraba)}
 
 
 def povprecni_avto(dfAvti=pd.DataFrame(getDict(2017))):
