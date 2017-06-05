@@ -131,3 +131,14 @@ Za konec sem pogledal še povprečno starost voznika v zadnjih 4ih letnih. Razli
 
 ![modeli](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/starost_voznika.jpg)
 
+## Stremenje k varovanju narave
+
+Glede na to da se ljudje vedno bolj ozaveščamo k varovanju okolja. Nas je tudi zanimalo ali slovenci kupujemo vedno bolj varčne avtomobile.
+Analizirali smo povprečno porabo avtomobilov in koliko C02 izpustov povzročijo v povprečju. Kot lahko ugotovimo iz spodnjih slik
+lahko zaznamo rahlo gibanje navzdol oziroma zmanjševanje tako povprečne porabe kot tudi izpustov. Čeprav še vseeno lahko opazimo nihanje obojega.
+Zanimivo je tudi da se izpusti v sredini leta 2016 kar znatno povečajo. Vendar nismo uspeli ugotoviti tehtnega razloga zato. Tako da bi lahko
+sklepali da gre mogoče za napako v vnašanju podatkov. Saj lahko predvidevamo da se izpusti avtomobilov niso kar naenkrat povečali.
+Prav tako pa je vpisov veliko preveč da bi lahko imeli premajhen vzorec in bi to vplivalo na znatno povečanje.
+
+![poraba](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/poraba.png)
+![izpusti](https://github.com/UrbanKocmut/PR17AUT/blob/master/pictures/izpusti.png)
