@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import numpy as np
 
 from code.dataSortOut import getDict
 
@@ -87,6 +88,21 @@ def dizelBencin():
     plt.show()
 
 
+def povprecna_poraba_leto(leto):
+    if leto < 2014 or leto > 2016:
+        raise RuntimeError('Napacno leto, mora biti 2014-2016')
+    co2 = []
+    poraba = []
+    for i in range(1, 13):
+        vozilaLeta = pd.DataFrame(getDict(leto, mesec=i))
+        vozilaLeta = vozilaLeta[vozilaLeta["J-Kategorija in vrsta vozila (opis)"] == "osebni avtomobil"]
+        vozilaLeta['V.8-Kombinirana poraba goriva'] = pd.to_numeric(vozilaLeta['V.8-Kombinirana poraba goriva'].map(lambda x: x.replace(",", ".")))
+        vozilaLeta['V.1-CO'] = pd.to_numeric(vozilaLeta['V.1-CO'].map(lambda x: x.replace(",", ".")))
+        co2.append(vozilaLeta['V.1-CO'].mean())
+        poraba.append(vozilaLeta['V.8-Kombinirana poraba goriva'].mean())
+    return {"CO2": np.mean(co2), "Poraba": np.mean(poraba)}
+
+
 def povprecni_avto(dfAvti=pd.DataFrame(getDict(2017))):
     osebniAvtomobili = dfAvti[dfAvti["J-Kategorija in vrsta vozila (opis)"] == "osebni avtomobil"]
     osebniAvtomobili['D.3-Komerc. oznaka'] = osebniAvtomobili['D.3-Komerc. oznaka'].map(lambda x: x.split("/")[0]).astype("category")
@@ -133,5 +149,3 @@ def povprecni_avto(dfAvti=pd.DataFrame(getDict(2017))):
         "povpBarva": povpBarva,
         "povpOkoljskaOznaka": povpOkoljskaOznaka
     }
-
-

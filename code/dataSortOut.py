@@ -27,7 +27,7 @@ def getDict(leto, mesec=1):
     leto = str(leto)
     file = "../data/" + leto + "/NPodatki_"+"{:02d}".format(mesec) + leto + ".csv"
     dict_list = []
-    with open(file) as csvfile:
+    with open(file,encoding='ANSI') as csvfile:
         reader = DictReader(csvfile, delimiter=';')
         for row in reader:
             dict_list.append(row)
